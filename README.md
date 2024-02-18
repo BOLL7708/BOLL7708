@@ -1,8 +1,11 @@
-Apparently there's a readme for my profile now?
+Hello! 
 
-Hello! I make and maintain OpenVR and streaming accessories! A few help libraries as well. I'll probably try to fill this out at a later date.
+I make and maintain a range of open source OpenVR/SteamVR and Twitch streaming accessories as well as a few C# convenience libraries.
 
-<!---
-BOLL7708/BOLL7708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+![JetBrains Logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)  
+For development, I use tools from [JetBrains][jetbrains] through their [Open Source Support][oss] program.
+
+[jetbrains]: https://jb.gg
+[oss]: https://jb.gg/OpenSourceSupport

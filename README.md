@@ -1,8 +1,8 @@
 Hello! 
 
-I make and maintain a range of open source OpenVR/SteamVR tools, Twitch streaming accessories and a few C# convenience libraries.
+I make and maintain a range of free open source SteamVR accessories, Twitch streaming solutions and a few C# convenience libraries.
 
-If you want to join a (very) budding community surrounding these solutions, feel free to join the [Discord server](https://discord.gg/Cdt4xjqV35).
+If you want to join a very budding community surrounding some of these solutions, feel free to join the [Discord server](https://discord.gg/Cdt4xjqV35).
 
 ---
 
